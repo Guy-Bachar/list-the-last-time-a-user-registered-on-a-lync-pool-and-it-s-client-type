@@ -1,0 +1,1 @@
+# list-the-last-time-a-user-registered-on-a-lync-pool-and-it-s-client-type
